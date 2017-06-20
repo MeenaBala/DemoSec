@@ -1,2 +1,2 @@
 # DemoSec
-Demo of security 
+Demo of NOde.js code security 
